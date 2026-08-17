@@ -3,6 +3,9 @@ For text case only
 updated
 
 <<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
+<<<<<<< Updated upstream
 learn stash 2
 =======
 
@@ -32,4 +35,13 @@ III.	Develops thoughtful behavioral assessment criteria to accurately evaluate l
 4.	Compliance, Governance & Policy Management
 I.	Reviews, develops, and implements HR policies, procedures, and Standard Operating Procedures (SOPs) to ensure operational consistency. 
 II.	Ensures all HR governance frameworks strictly comply with Sri Lankan Labour Laws, regulatory requirements, and corporate governance standards applicable to Licensed Finance Companies.
+>>>>>>> Stashed changes
+=======
+learn stash 2
+>>>>>>> Stashed changes
+=======
+learn stash 1
+>>>>>>> Stashed changes
+=======
+learn stash 2
 >>>>>>> Stashed changes
