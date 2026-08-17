@@ -2,3 +2,34 @@ For text case only
 
 updated
 
+<<<<<<< Updated upstream
+learn stash 2
+=======
+
+Major Objectives of the Job: 
+Human Resources plays a pivotal role in developing and executing people strategies that actively support business growth, organizational excellence, and a thriving high-performance culture across People's Leasing & Finance PLC. By partnering closely with senior management, this position ensures that all strategic human resource initiatives are seamlessly aligned with the company’s broader corporate objectives and business strategy.
+
+1.	Strategic HR & Organizational Effectiveness
+I.	Partners with senior leadership to design and implement strategic HR initiatives that drive corporate goals forward. 
+II.	Designs, develops, and implements robust Key Performance Indicator (KPI) frameworks and productivity measurement systems across all business units. 
+III.	Applies workforce planning techniques, job evaluation methodologies, competency mapping, and manpower optimization strategies to ensure the organization operates efficiently. 
+IV.	Utilizes HR analytics and data-driven decision-making to support strategic planning and boost overall organizational performance.
+2.	Talent Acquisition & Performance Management 
+I.	Introduces and actively manages modern selection techniques and recruitment methodologies, including competency-based interviews, behavioral assessments, and assessment centers. 
+II.	Enhances the Company's Performance Management Framework using modern evaluation techniques, such as performance calibration, 360-degree feedback, and Performance Improvement Plans. 
+III.	Develops comprehensive Competency Frameworks that cover leadership, managerial, functional, technical, and behavioral competencies across all employee categories.
+3.	Employee Engagement & Talent Development 
+I.	Leads engaging initiatives focused on talent management, succession planning, retention strategies, and leadership development to build a strong, future-ready talent pipeline. 
+II.	Fosters a high-performance, customer-centric culture that truly promotes collaboration, accountability, employee wellbeing, and continuous learning. 
+III.	Develops thoughtful behavioral assessment criteria to accurately evaluate leadership potential, emotional intelligence, resilience, and teamwork capabilities.
+
+
+
+
+
+
+
+4.	Compliance, Governance & Policy Management
+I.	Reviews, develops, and implements HR policies, procedures, and Standard Operating Procedures (SOPs) to ensure operational consistency. 
+II.	Ensures all HR governance frameworks strictly comply with Sri Lankan Labour Laws, regulatory requirements, and corporate governance standards applicable to Licensed Finance Companies.
+>>>>>>> Stashed changes
